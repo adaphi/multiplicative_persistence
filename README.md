@@ -1,2 +1,4 @@
-# multiplicative_persistence
-Python script for checking the multiplicative persistence of numbers
+# Multiplicative Persistence
+
+Quick script for checking multiplicative persistence of numbers, inspired by the Numberphile video on the same.
+
